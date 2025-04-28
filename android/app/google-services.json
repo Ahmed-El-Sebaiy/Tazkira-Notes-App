@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1029447964825",
+    "project_id": "tazkira-app-bdb9d",
+    "storage_bucket": "tazkira-app-bdb9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029447964825:android:f6d4b9d328fa611caf8008",
+        "android_client_info": {
+          "package_name": "com.example.tazkira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029447964825-jcnvbbhufdjfbk4l8qs5bs85f4o6128p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tazkira",
+            "certificate_hash": "fb0d28ffd3923d5e3ca6cce0781e6ebc98631833"
+          }
+        },
+        {
+          "client_id": "1029447964825-2aq8rqfprmdhilrntecvcukfccd94c5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFIcbS6TIsuoQg3_mmdxhafRyhePTzld0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029447964825-2aq8rqfprmdhilrntecvcukfccd94c5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

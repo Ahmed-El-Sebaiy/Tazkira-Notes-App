@@ -1,0 +1,1 @@
+const String tazkaroLogo = 'assets/images/note.png';
